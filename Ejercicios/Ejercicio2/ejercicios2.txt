@@ -1,0 +1,62 @@
+﻿1. Leer un numero y mostrar su cuadrado, repetir el proceso hasta que se introduzca un numero negativo.
+
+Se debe mostrar un mensaje para introducir un nuevo numero:
+"Introduzca un numero:"
+"El cuadrado de X es Y"
+
+
+
+2. Leer un numero e indicar si es positivo o negativo. Repetir hasta que se introduzca 0.
+
+Se debe mostrar un mensaje para introducir un nuevo numero:
+"Introduzca un numero:"
+"X es positivo"
+"X es negativo"
+
+
+
+3. Leer un numero y mostrar si es par o impar. Repetir hasta que se introduzca un 0.
+
+Se debe mostrar un mensaje para introducir un nuevo numero:
+"Introduzca un numero:"
+"X es par"
+"X es impar"
+
+
+
+4. Leer numeros hasta que se introduzca uno negativo. Después mostrar cuántos números se han introducido.
+
+Se debe mostrar un mensaje para introducir un nuevo numero:
+"Introduzca un numero:"
+"Se introdujeron X numeros"
+
+
+
+5. Realizar un juego para adivinar un numero. Para ello pedir un numero N y luego ir pidiendo numero indicando si es mayor o menor con respecto a N. El proceso termina cuando el usuario acierta con el numero N. Mostrar cuántos intentos hizo para adivinar el numero.
+
+
+
+6. Pedir numeros hasta que se introduzca un 0. Al final mostrar la suma de todos los numero introducidos.
+
+
+
+7. Pedir numero hasta que se introduzca uno negativo y calcular la media.
+
+
+
+8. Pedir un numero N, y mostrar todos los numeros del 1 al N.
+
+
+
+9. Mostrar todos los numeros del 100 al 0 de 7 en 7.
+Ej: 100, 93, 86, .... (-=, --)
+
+
+
+10. Pedir tres numeros, y mostrarlos de mayor a menor. (condicional)
+
+
+
+11. Pedir un numero entre 0 y 99999 y decir cuantas cifras tiene.
+
+

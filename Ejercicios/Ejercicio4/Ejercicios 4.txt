@@ -1,0 +1,60 @@
+﻿1. Hacer de nuevo el ejercicio CincoSuma, pero mostrando el mensaje de introducción de valor al usuario antes de cada lectura. Además usar una única variable.
+
+
+2. Hacer de nuevo el ejercicio 11 (mostrar el número de dígitos de un número).
+
+
+3. Hacer un programa que pida un número positivo al usuario, voltearlo, guardarlo en otra variable y mostrarla.
+  Ej: Si el usuario introduce 1234, el programa debe mostrar 4321.
+
+
+4. Hacer un probrama que pida un número e indicar si es capicúa. (Ej: 36565 es capicúa).
+  Programa debe mostrar "El numero X (no) es capicíua".
+
+
+5. Pedir el dia, mes, año de una fecha e indicar si la fecha es correcta (Tomar en cuenta fechas reales, tomar en cuenta años bisiestos).
+
+
+6. Pedir el día, mes, año de una fecha y mostrar la fecha del día siguiente (Suponer que todos los meses tienen 30).
+
+
+7. (OPCIONAL) Pedir el día, mes, año de una fecha y mostrar la fecha del día siguiente (Tomar en cuenta fechas reales).
+
+
+8. Pedir una hora de la forma HH:mm:ss y mostrar la hora en el segundo siguiente. 
+  Ej: si el usuario introduce: 15:59:59 -> el programa debe mostrar 16:00:00
+      si el usuario introduce: 01:45:58 -> el programa debe mostrar 01:45:59
+
+
+9. (OPCIONAL) Pide un numero (que debe estar entre 0 y 10) y mostrar la tabla de multiplicar de dicho numero.
+  EJ: si el usuario introduce 6, el programa debe mostrar:
+   6 x 1 = 6
+   6 x 2 = 12
+   6 x 3 = 18
+   6 x 4 = 24
+   6 x 5 = 30
+   6 x 6 = 36
+   6 x 7 = 42
+   6 x 8 = 48
+   6 x 9 = 54
+   6 x 10 = 60
+ 
+
+
+------------------
+
+1. Pedir 15 numero y escribir la suma total (usar un for)
+
+2. Hacer un programa que muestr el productoi de los 10 primero numero impares (usar un for).
+
+3. Hacer un programa que pida un numero y muestre la suma de los 10 primero numeros impares a partir de ese numero introducido. (usar for)
+  Ej: si el usuario introduce 6: se deberia mostrar el resultado de la suma: 7 + 9 + 11 + 13 + 15+ 17+ 19 + 21 + 23 + 25
+      si el usuario introduce 9: se deberia mostrar el resultado de la suma: 9 + 11 + 13 + 15+ 17+ 19 + 21 + 23 + 25 + 27  
+
+4. Pedir un numero y calcular su factorial. (while o for).
+  ej: si el usuario introduce 6, se debe mostrar el resultado de (6 * 5 *4 *3 *2 *1)
+
+5. Pedir 10 numeros, mostrar la media de los numeros positivos y la media de los numero negativos y la cantidad de ceros. (for).
+
+ 
+  

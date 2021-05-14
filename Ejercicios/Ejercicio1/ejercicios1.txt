@@ -1,0 +1,45 @@
+﻿1. Hacer un programa que permita introducir un numero entero del 1 al 10 y mostrar un mensaje con el nombre del numero en literal (en version if/else y switch).
+
+
+
+
+2. Hacer un programa que permita introducir notas de alumnos (enteros del 1 al 10).  En base a la nota introducida el programa debe imprimir un mensaje:
+- INSUFICIENTE (0 - 4).
+- SUFICIENTE (5).
+- BIEN (6).
+- NOTABLE (7 y 8).
+- SOBRESALIENTE (9 y 10).
+- ERROR
+
+No se debe repetir la misma linea de código.
+En version if/else y switch
+
+
+
+
+3. Hacer un programa que pida un numero del 0-99 y mostrar el número de decenas y el número de unidades en formato literal.
+Ej:
+-> 84
+ ocho
+ cuatro
+
+-Sólo con switch.
+
+
+
+4. Hacer un programa que pida dos numeros e imprimir un mensaje que indique si son iguales (usando los numeros en el mensaje).
+
+
+
+5. Hacer un programa que pida un numero e imprimir un mensaje que indique si es positivo o negativo.
+
+
+
+
+6. Hacer un programa que pida el radio de una circunferencia, calcular la longitud de su circunferencia y mostrarla en un mensaje que tenga el siguiente formato:
+"La longitud de una circunferencia de radio X es: Y".
+
+
+
+7. Hacer un programa que pida el radio de un circulo y calcular su area. Mostrar el mensaje:
+"El area de una circunferencia de radio X: es Y".

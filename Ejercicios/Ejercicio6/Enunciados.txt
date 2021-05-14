@@ -1,0 +1,37 @@
+﻿1. Hacer una función que reciba 3 números y retorne el mayor.
+
+2. Hacer una función que reciba un array de enteros y que retorne el mayor de todos los números ahí.
+
+3. Hacer una función a la que se le pasen 2 enteros y que muestren todos los números entre ellos.
+
+4. Hacer una función que retorne el área o el volumen de un cilindro (según se especifique mediante un parámetro de tipo char).
+
+5. Hacer una función que retorne el área y el volumen de un cilindro en un array, área en la posición 0, y volumen en la posición 1.
+
+6. Hacer una función a la que se le pase un entero y ésta devuelva el número de divisores primos que tiene.
+
+7. Hacer una función a la que se le pase un entero y ésta devuelva un array con sus divisores primos.
+
+8. Escribir una función que calcule el máximo común divisor de dos números.
+
+9. Escribir una función que calcule el máximo común divisor de tres números.
+
+10. Escribir una función que calcule el mínimo común múltiplo de dos números.
+
+11. Escribir una función que calcule el mínimo común múltiplo de tres números.
+
+12. Escriba una función que decida si dos números enteros positivos son amigos. Dos números son amigos, si la suma de sus divisores (distintos de ellos mismos) son iguales al otro entero.
+
+13. Escriba una función que determine si un número es primo
+
+14. Escriba una función que reciba una base y un exponente y devuelva la potenciación usando ambos números.
+
+15. Escribir una función que muestre un numero binario. La función debe recibir un número en sistema decimal y mostrarlo en binario.
+
+16. Escribir una función que muestre los primeros N número impares
+
+17. Dado el valor de un ángulo, sería interesante saber su seno, coseno y tangente. Escribir una función que muestre en pantalla los datos anteriores.
+
+18. Diseñar una función que calcule la distancia euclídea de dos puntos.
+
+19. Escribir una función que sume los primeros N número impares
